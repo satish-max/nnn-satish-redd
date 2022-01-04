@@ -1,0 +1,8 @@
+C:\Users\satis\source\repos\myprojectsol\myproject\obj\Debug\netcoreapp3.1\myproject.csproj.AssemblyReference.cache
+C:\Users\satis\source\repos\myprojectsol\myproject\obj\Debug\netcoreapp3.1\myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satis\source\repos\myprojectsol\myproject\obj\Debug\netcoreapp3.1\myproject.AssemblyInfoInputs.cache
+C:\Users\satis\source\repos\myprojectsol\myproject\obj\Debug\netcoreapp3.1\myproject.AssemblyInfo.cs
+C:\Users\satis\source\repos\myprojectsol\myproject\obj\Debug\netcoreapp3.1\myproject.csproj.CoreCompileInputs.cache
+C:\Users\satis\source\repos\myprojectsol\myproject\obj\Debug\netcoreapp3.1\myproject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\satis\source\repos\myprojectsol\myproject\obj\Debug\netcoreapp3.1\myproject.RazorAssemblyInfo.cache
+C:\Users\satis\source\repos\myprojectsol\myproject\obj\Debug\netcoreapp3.1\myproject.RazorAssemblyInfo.cs

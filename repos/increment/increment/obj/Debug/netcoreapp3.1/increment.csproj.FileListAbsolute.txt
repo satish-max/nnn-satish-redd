@@ -1,0 +1,14 @@
+C:\Users\satis\source\repos\increment\increment\obj\Debug\netcoreapp3.1\increment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satis\source\repos\increment\increment\obj\Debug\netcoreapp3.1\increment.AssemblyInfoInputs.cache
+C:\Users\satis\source\repos\increment\increment\obj\Debug\netcoreapp3.1\increment.AssemblyInfo.cs
+C:\Users\satis\source\repos\increment\increment\obj\Debug\netcoreapp3.1\increment.csproj.CoreCompileInputs.cache
+C:\Users\satis\source\repos\increment\increment\bin\Debug\netcoreapp3.1\increment.exe
+C:\Users\satis\source\repos\increment\increment\bin\Debug\netcoreapp3.1\increment.deps.json
+C:\Users\satis\source\repos\increment\increment\bin\Debug\netcoreapp3.1\increment.runtimeconfig.json
+C:\Users\satis\source\repos\increment\increment\bin\Debug\netcoreapp3.1\increment.runtimeconfig.dev.json
+C:\Users\satis\source\repos\increment\increment\bin\Debug\netcoreapp3.1\increment.dll
+C:\Users\satis\source\repos\increment\increment\bin\Debug\netcoreapp3.1\increment.pdb
+C:\Users\satis\source\repos\increment\increment\obj\Debug\netcoreapp3.1\increment.dll
+C:\Users\satis\source\repos\increment\increment\obj\Debug\netcoreapp3.1\increment.pdb
+C:\Users\satis\source\repos\increment\increment\obj\Debug\netcoreapp3.1\increment.genruntimeconfig.cache
+C:\Users\satis\source\repos\increment\increment\obj\Debug\netcoreapp3.1\increment.csproj.AssemblyReference.cache

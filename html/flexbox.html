@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en"> 
+        <title>flex box</title>
+        <style>
+            .container {
+             display:flex;
+      border: 1px solid black;
+      padding: 10px;
+      flex-wrap: nowrap;
+      flex-direction: row;
+      justify-content:space-around;
+}
+        </style>
+    </head>
+
+<div class="container">
+    <h2>challnege: cat generator</h2>
+    <button class="btn btn-success" id="dog-generator" onclick="generateDog()">generate dog</button>
+    <div class="flex-box-container" id="flex-dog-gen">
+        <img src="https://c.tenor.com/5LT51B0DSIoAAAAM/funny-animals-dog.gif" alt="">
+        
+    </div>
+    <script>  
+      function generateDog() {
+        var image = document.createElement('img');
+        var div = document.getElementById('flex-dog-gen');
+        image.src= "https://c.tenor.com/5LT51B0DSIoAAAAM/funny-animals-dog.gif";
+        
+        div.appendChild(image);
+    }
+</script>
+    
+
+    </html>

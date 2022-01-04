@@ -1,0 +1,14 @@
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.exe
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.deps.json
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.json
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfo.cs
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\satis\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.genruntimeconfig.cache

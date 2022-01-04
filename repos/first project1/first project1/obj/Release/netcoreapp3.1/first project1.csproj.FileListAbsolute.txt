@@ -1,0 +1,5 @@
+C:\Users\satis\source\repos\first project1\first project1\obj\Release\netcoreapp3.1\first project1.csproj.AssemblyReference.cache
+C:\Users\satis\source\repos\first project1\first project1\obj\Release\netcoreapp3.1\first project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satis\source\repos\first project1\first project1\obj\Release\netcoreapp3.1\first project1.AssemblyInfoInputs.cache
+C:\Users\satis\source\repos\first project1\first project1\obj\Release\netcoreapp3.1\first project1.AssemblyInfo.cs
+C:\Users\satis\source\repos\first project1\first project1\obj\Release\netcoreapp3.1\first project1.csproj.CoreCompileInputs.cache
